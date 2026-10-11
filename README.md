@@ -49,6 +49,6 @@
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
   <a href="https://bitxlsstudio.com" target="_blank">
-    <img src="assets/boton.svg" alt="Portafolio" />
+    <img src="assets/gemini-svg.svg" alt="Portafolio" />
   </a>
 </p>

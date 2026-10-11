@@ -4,11 +4,12 @@
 
 ### 👨‍💻 Sobre mí
 
-Licenciado en Informática orientado al desarrollo de software y diseño visual. Enfocado en construir aplicaciones web completas, escalables y con interfaces pulidas.
+Licenciado en Informática orientado al desarrollo web y diseño visual. Construyo aplicaciones completas, escalables y con interfaces pulidas y funcionales.
 
-- 🔭 **Especialidad:** Aplicaciones Full Stack (React, Node.js, Express, PostgreSQL).
-- 🎨 **Diseño & UI:** Diseño de interfaces, identidad visual y sistemas gráficos en Figma e Illustrator.
-- 💬 **Conexión:** [LinkedIn](https://www.linkedin.com/in/robinzdev)
+- 🔭 **Proyectos activos:** Desarrollo de herramientas de productividad y sistemas web full-stack.
+- 🎨 **Diseño & UI:** Identidad de marca, sistemas vectoriales y prototipado en Figma e Illustrator.
+- 🌐 **Web:** [bitxlsstudio.com](https://bitxlsstudio.com)
+- 💼 **LinkedIn:** [robinzdev](https://www.linkedin.com/in/robinzdev)
 
 ---
 
@@ -20,11 +21,11 @@ Licenciado en Informática orientado al desarrollo de software y diseño visual.
 
 ---
 
-### 📊 Estadísticas
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robinzdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinzdev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinzdev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
@@ -38,5 +39,8 @@ Licenciado en Informática orientado al desarrollo de software y diseño visual.
 <p align="center">
   <a href="https://www.linkedin.com/in/robinzdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://bitxlsstudio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
   </a>
 </p>

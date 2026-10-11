@@ -1,14 +1,15 @@
-<!-- HEADER BRUTALISTA SEGURO -->
+<!-- CABECERA BRUTALISTA CON ANIMACIÓN SVG -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=FAF8F5&stroke=000000&strokeWidth=4&text=ROBINZON%20MICHEL&fontSize=38&fontColor=000000&fontAlignY=50&desc=FULL-STACK%20DEVELOPER%20+%20UI%20DESIGNER&descSize=14&descColor=000000&descAlignY=76" width="100%" alt="Banner" />
+  <img src="assets/header.svg" width="100%" alt="Robinzon Michel - Header" />
 </p>
 
-<!-- TAGS TÉCNICOS -->
+<!-- TAGS TÉCNICOS ESPECÍFICOS -->
 <p align="center">
   <img src="https://img.shields.io/badge/REACT-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=FFFFFF&color=000000" alt="React" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=FFFFFF&color=000000" alt="TypeScript" />
   <img src="https://img.shields.io/badge/NODE.JS-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=FFFFFF&color=000000" alt="Node.js" />
+  <img src="https://img.shields.io/badge/EXPRESS-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=FFFFFF&color=000000" alt="Express" />
   <img src="https://img.shields.io/badge/POSTGRESQL-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=FFFFFF&color=000000" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=FFFFFF&color=000000" alt="Tailwind" />
   <img src="https://img.shields.io/badge/FIGMA-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=FFFFFF&color=000000" alt="Figma" />
 </p>
 
@@ -16,39 +17,41 @@
 
 ### [ 01 ] SOBRE MÍ
 
-> **SOFTWARE DE ALTO RENDIMIENTO & SISTEMAS VISUALES**  
-> Desarrollo aplicaciones completas enfocadas en arquitectura escalable y prototipado visual de precisión.
+> **INGENIERÍA WEB & SISTEMAS VISUALES**  
+> Desarrollo aplicaciones completas enfocadas en arquitectura escalable, lógica de negocio robusta e interfaces gráficas con criterio editorial y funcional.
 
-* **Stack:** Arquitectura Full Stack modular (React, Node, Express, PostgreSQL).
-* **Diseño:** Sistemas de diseño, geometría vectorial e interfaces en Figma e Illustrator.
-* **Proyectos:** Creación de plataformas web funcionales y extensiones de diseño.
+* **Stack:** Desarrollo web full-stack con React, Express y bases de datos relacionales (PostgreSQL).
+* **Diseño:** Sistemas de diseño, geometría vectorial, prototipos e interfaces en Figma e Illustrator.
+* **Enfoque:** Código limpio, consistencia tipográfica y alto desempeño.
 
 ---
 
 ### [ 02 ] HERRAMIENTAS & ENTORNO
 
+<!-- Iconos monocromáticos limpios adaptados al contraste brutalista -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,postgres,tailwind,docker,git,figma,ai,ps&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,tailwind,docker,git,github,figma,ai,ps&theme=dark" alt="Stack tecnológico" />
 </p>
 
 ---
 
 ### [ 03 ] REPOSITORIOS CLAVE
 
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **GridIt-Pro** | Extensión para generación de rejillas geométricas y guías de construcción | `JavaScript` `CEP` `Illustrator` |
-| **SIGER-FMC** | Sistema web integral de gestión técnica y servicios | `React` `Node.js` `PostgreSQL` |
+| Módulo | Tipo | Descripción | Tecnologías |
+| :--- | :--- | :--- | :--- |
+| **GridIt-Pro** | Tooling | Extensión de cuadrículas geométricas y guías de construcción | `JavaScript` `CEP` `Illustrator` |
+| **SIGER-FMC** | Web App | Sistema integral para gestión técnica y flujo de servicios | `React` `Node.js` `PostgreSQL` |
 
 ---
 
-### [ 04 ] CONTACTO & ENLACES
+### [ 04 ] ENLACES & CONTACTO
 
 <p align="center">
   <a href="https://www.linkedin.com/in/robinzdev" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://bitxlsstudio.com" target="_blank">
-    <img src="assets/gemini-svg.svg" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO_↗-CCFF00?style=for-the-badge&labelColor=000000&color=CCFF00" alt="Website" />
   </a>
 </p>

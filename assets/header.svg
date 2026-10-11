@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="200">
+  <defs>
+    <!-- Patrón de rejilla milimétrica brutalista -->
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#E2DCD5" stroke-width="0.8"/>
+    </pattern>
+  </defs>
+
+  <!-- Sombra sólida dura -->
+  <rect x="12" y="12" width="828" height="178" fill="#000000" rx="3" />
+
+  <!-- Lienzo principal marfil -->
+  <rect x="6" y="6" width="828" height="178" fill="#FAF8F5" stroke="#000000" stroke-width="3" rx="3" />
+
+  <!-- Capa de rejilla / grid -->
+  <rect x="6" y="6" width="828" height="178" fill="url(#grid)" rx="3" />
+
+  <!-- Barra superior técnica -->
+  <line x1="6" y1="36" x2="834" y2="36" stroke="#000000" stroke-width="2.5" />
+  <circle cx="22" cy="21" r="4" fill="#000000" />
+  <circle cx="36" cy="21" r="4" fill="#000000" />
+  <circle cx="50" cy="21" r="4" fill="#000000" />
+  <text x="68" y="25" fill="#000000" font-family="monospace" font-size="11" font-weight="700" letter-spacing="1.5">SYS.DEV // ARCHITECTURE &amp; INTERFACES</text>
+
+  <!-- Bloques de matriz animados (cuadritos parpadeando) -->
+  <rect x="680" y="60" width="16" height="16" fill="#CCFF00" stroke="#000000" stroke-width="1.5">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite" />
+  </rect>
+  <rect x="702" y="60" width="16" height="16" fill="#000000">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="724" y="60" width="16" height="16" fill="#CCFF00" stroke="#000000" stroke-width="1.5">
+    <animate attributeName="opacity" values="0.5;1;0.1;0.5" dur="3s" repeatCount="indefinite" />
+  </rect>
+  <rect x="702" y="82" width="16" height="16" fill="#CCFF00" stroke="#000000" stroke-width="1.5">
+    <animate attributeName="opacity" values="1;0;1" dur="1.4s" repeatCount="indefinite" />
+  </rect>
+  <rect x="724" y="82" width="16" height="16" fill="#000000">
+    <animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" repeatCount="indefinite" />
+  </rect>
+  <rect x="746" y="82" width="16" height="16" fill="#CCFF00" stroke="#000000" stroke-width="1.5">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="1.9s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Tipografía principal de alto peso -->
+  <text x="36" y="94" fill="#000000" font-family="-apple-system, BlinkMacSystemFont, 'Impact', 'Arial Black', sans-serif" font-size="44" font-weight="900" letter-spacing="1.5">
+    ROBINZON MICHEL
+  </text>
+
+  <!-- Subtítulo técnico con cursor intermitente -->
+  <text x="38" y="132" fill="#111111" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2">
+    FULL-STACK WEB &amp; PRODUCT DESIGN
+  </text>
+  <rect x="360" y="119" width="8" height="15" fill="#000000">
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Tag de disponibilidad de alto contraste -->
+  <rect x="36" y="150" width="112" height="20" fill="#CCFF00" stroke="#000000" stroke-width="1.5" />
+  <text x="92" y="164" fill="#000000" font-family="monospace" font-size="10" font-weight="900" text-anchor="middle" letter-spacing="1">STATUS: ACTIVE</text>
+</svg>
